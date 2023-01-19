@@ -1,5 +1,5 @@
 .dontshow {
-display: none;
+visibility: hidden;
 }
 .logo{
   float:left;
