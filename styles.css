@@ -1,4 +1,6 @@
-
+.dontshow {
+display: none;
+}
 .logo{
   float:left;
   margin: 28px 100px 0px 30px;
